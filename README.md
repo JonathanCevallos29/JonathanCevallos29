@@ -15,4 +15,8 @@ mi enfoque principal es la programación, especialmente en **Java**.
 
 ## 🐊 Inspiración
 
-Fuera del
+Fuera del ámbito digital, me inspira la analogía de los **cocodrilos**. Cuando están sumergidos, observan su entorno con discreción antes de actuar. 
+Admiro su habilidad para analizar cuidadosamente y actuar con precisión, una cualidad que trato de reflejar en mi vida y en mi carrera profesional.
+
+--
+
