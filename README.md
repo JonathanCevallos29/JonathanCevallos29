@@ -1,8 +1,8 @@
 # 👋 ¡Hola!
 
-Soy **Jonathan Abimael Cevallos Lovo**, estudiante de Informática Administrativa en la UNAH, 
+Soy **Jonathan Cevallos **, estudiante de Informática Administrativa en la UNAH, 
 con una gran pasión por la tecnología. Aunque exploro diferentes áreas como bases de datos y redes, 
-mi enfoque principal es la programación, especialmente en **Java**.
+mi enfoque principal es la programación, especialmente en **Java** y **Spring Boot**.
 
 ---
 
